@@ -1,0 +1,16 @@
+body {
+    font-size: 15pt;
+    display: flex
+}
+.mainBox{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: grey;
+}
+.btn{
+  display: block;
+}
+.heading{
+  display:block;
+}
